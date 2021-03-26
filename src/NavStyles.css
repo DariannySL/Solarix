@@ -48,3 +48,11 @@ nav ul li {
 body {
   font-family: 'Exo', sans-serif;
 }
+
+.background {
+  background-image: url(./img/img-background2.jpeg);
+  height: 88vh;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}
